@@ -16,7 +16,13 @@ const songs=[
             artist:'SHAUN feat. Conor Maynard',
             duration:'3:12',
             img:'wbh.jpg'
-        }
+        },
+         {
+        title:'Nếu Ví Anh Như',
+        artist:'(Đông x Thazh Remix) - 若把你 - Kirsty刘瑾睿',
+        duration:'3:14',
+        img:'lebao.jpg'
+    },
         
     ];
     const playlistDiv =document.getElementById('playlist-container');
